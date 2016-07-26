@@ -3,6 +3,12 @@ public class A{
   public void say(){
 	System.out.println("Œ“ «¿‡A");
 	}
+	
+	
+	public int logic(int a,int b){
+		return a+b;
+	
+	}
 
 
 }
