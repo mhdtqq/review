@@ -1,0 +1,12 @@
+public class void C(){
+	
+  public int qurt(int a,int b){
+     return a*b;
+   }
+
+
+  public void qurt(int a,int b){
+     System.out.println("a+b=c");
+   }
+
+}
